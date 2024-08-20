@@ -1,0 +1,41 @@
+Introduce Yourself - About your role in the projects
+He asked me to share my screen and open notepad
+
+-The first question he asked me was about middlewares then he asked me to write a custom middlewares in notepad.
+
+how are you implementing exception handling in dot net?
+I answered try catch block
+cross question - so in every part of your code you are implementing try catch block?
+-then in my answer I said about asynchronous programming so he asked me about it also asked me to implement async, await and task.run()-I knew about async await but not about Task.Run()
+
+He asked me about dependency injection and then he asked me to write the implementation in notepad
+What I wrote was not 100% correct.
+
+then he asked me about service lifetime
+i told about add transient, add scoped and add singleton, 
+cross question - real life example of the service lifetime like when to use which one
+then he asked me which one is stateless 
+I answered - add transient and add scoped
+
+he asked me about caching but I didn't know the answer
+
+then he asked me to write a linq query
+you have two tables student and course 
+write a linq query to fetch the data from the two tables
+i was not able to write it
+
+then he asked me about EF Core approaches, I answered code first and db first,
+then he asked me which one we are using in our project and asked me how to implement code first then he asked me to write the migration command
+
+then he asked me question from sql server, he asked me to write a stored procedure to insert values into student db, although i kknow the basic syntax but I was not able to pass the parameters,
+he said that I have three years of experience but I am not able to write a stored proc
+
+then he asked me about Right Join, basic http protocols
+
+differnce b/w put and patch
+cross question you said that put updates the entire row then instead of updating can't we create new row?
+
+angular 
+data binding
+syntax for data binding, which I answered totally wrong
+
