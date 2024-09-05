@@ -1,0 +1,17 @@
+Introduce Yourself -- she wanted to know my roles in projects.
+Write an example of dependency injection- I wrote the code as after LTI interview I prepared for it
+Server side validations - I said I don't know although I know, then I said that I know Data Annotations then she asked me how to make a property mandatory, cross question how to validate a class
+ViewData, ViewBag, Temp Data
+Tag Helpers - i don't know as I haven't revised
+You have a table with two rows empid and deptId. Write a linq query to return all rows where one empId is associated with many deptIds - i didn't knew linq but interviewer was polite she asked me to write it using sql which I knew.
+Types of Routing
+Filters
+Authentication and Authorization
+how to secure Apis
+Can we have one then one appsettings in our projects, how to implement it
+she asked me to write a method that returns json result --- i made silly mistakes
+How to change method name - i didn't get this question
+Tag Helpers-haven't revised
+redirect to action vs redirect to route
+Partial Views and can all views have same layout?
+Http Get, post,put,patch which is more secure
