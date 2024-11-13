@@ -1,0 +1,17 @@
+Abstraction Encapsulation
+Protected vs protected internal
+static vs singleton
+what does L stands for in SOLID Principles
+IEnummerable vs Iqueryable also write the same
+can we make a non clustered index on primary key - yes
+phases of garbage collection.
+how to force garbage collector
+ngOnChanges
+how to pass data from one component to another if they are not related
+diff between promises and observables
+rxjs operators map, filter
+linq query for left join
+question based on virtual, override, new like what will be the output of the below code
+question on when to use multithreading and when to use asynchronous programming
+how to check when a thread execution is ended
+
